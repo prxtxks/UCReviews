@@ -6,7 +6,7 @@ Unlike traditional feedback kiosks, UC Reviews captures **contextual, actionable
 
 The project was showcased at the **University of Cincinnati IT Expo (2025)**, where it received **100% in the technical evaluation**, under the supervision of **Professor Dyllon Dekok**.  
 
-⚡ Note: This is a **forked repository**. The original source can be found here:  
+Note: This is a **forked repository**. The original source can be found here:  
 [Elliott03/UCReviews](https://github.com/Elliott03/UCReviews)
 
 ## Features
