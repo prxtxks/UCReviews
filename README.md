@@ -7,9 +7,9 @@ Unlike traditional feedback kiosks, UC Reviews captures **contextual, actionable
 The project was showcased at the **University of Cincinnati IT Expo (2025)**, where it received **100% in the technical evaluation**, under the supervision of **Professor Dyllon Dekok**.  
 
 ⚡ Note: This is a **forked repository**. The original source can be found here:  
-🔗 [Elliott03/UCReviews](https://github.com/Elliott03/UCReviews)
+[Elliott03/UCReviews](https://github.com/Elliott03/UCReviews)
 
-## ✨ Features
+## Features
 
 - **Authentication** – Login via Google, Apple, or UC credentials  
 - **Entity Listings** – Professors, Dorms, Dining Halls, Parking Garages  
@@ -22,7 +22,7 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
 - **Responsive Design** – Accessible on desktop and mobile browsers  
 - **Data Security** – Secure login, salted hashing, parameterized queries, minimal attack surface  
 
-## 📸 User Interface
+## User Interface
 
 
 > Home / Login
@@ -46,7 +46,7 @@ The project was showcased at the **University of Cincinnati IT Expo (2025)**, wh
   ![Admin](./web-client/admin.webp)
 
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 This application consists of **three components**:  
 
@@ -60,12 +60,12 @@ The backend interacts with the database and handles requests from the frontend. 
 - **Services** – Contain application logic and serve as intermediaries between controllers and repositories.  
 - **Repositories** – Abstract database operations, ensuring clean data access.  
 
-> 📊 Diagram
+> Diagram
 
 ![Technical Architecture](./web-client/architecture.png)
 
 
-## 👥 User Personas
+## User Personas
 
 UC Reviews was designed around common UC community roles:  
 
@@ -74,24 +74,24 @@ UC Reviews was designed around common UC community roles:
 - **Administrator Persona** – Uses the admin dashboard to moderate flagged reviews and track trends.  
 
 
-## 📊 Use Case Diagram
+## Use Case Diagram
 
 The system supports multiple interactions:  
 
 - **Students** – Login, browse listings, submit reviews, upvote/downvote reviews, report inappropriate content.  
 - **Admins** – Moderate flagged content, view analytics dashboard, manage users if necessary.  
 
-> 📊 Diagram
+> Diagram
 
 ![Use Case](./web-client/usecase.png)
 
-## 📑 Final Report
+## Final Report
 
 Full final analysis of the project is available in the report below:  
 
 📄 [Final Report (PDF)](./IT5004_Group37_UCReviews.pdf)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js + Angular CLI
@@ -116,26 +116,26 @@ ng test
 ng e2e
 ```
 
-## 🎯 Project Goals
+## Project Goals
 - Provide comprehensive student feedback across UC campus life  
 - Improve student experience through data-driven insights  
 - Ensure privacy and safety with anonymous and moderated reviews  
 - Deliver a responsive and intuitive interface  
 
 
-## 👩‍💻 Contributors
+## Contributors
 - Pratik Chaudhari  
 - Adam Tulloss  
 - Elliott Phillips  
 - Chase Staggs  
 
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Analytics dashboard for trends in reviews  
 - Machine learning–based sentiment analysis of reviews  
 
 
-## 🏆 Recognition
+## Recognition
 - Presented at the University of Cincinnati IT Expo 2025  
 - Awarded 100% technical evaluation score  
 - Project completed under the supervision of Professor Dyllon Dekok  
